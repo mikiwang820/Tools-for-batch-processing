@@ -9,10 +9,10 @@ Created on Tue Aug 25 12:19:05 2020
 
 import os 
 
-#input
+# your input folder
 route = '/Users/wangmeiqi/code_and_data/HCC/ntuh/ct'
 
-#output
+# your output folder
 save_route = '/Users/wangmeiqi/code_and_data/HCC/ntuh/ct_3d_non_cor'
 
 dir_ = []
