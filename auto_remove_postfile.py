@@ -59,5 +59,5 @@ for root, dirs, files in os.walk(route):
             
             print(filename)
             
-            os.remove(filename)
+            os.move(filename)
         
